@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdecrypt",
+        "uuid": 1761708,
+        "checksum": "jk83jn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
